@@ -1,1 +1,2 @@
 # Human-recognizer
+An innovative application designed for efficient and secure user identification and authentication. Using advanced biometric recognition techniques, this tool provides a reliable method for verifying people's identities through unique features such as fingerprints, facial recognition, and voice recognition. 
